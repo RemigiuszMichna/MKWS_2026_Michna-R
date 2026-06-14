@@ -1,4 +1,4 @@
-﻿# Equilibrium Performance Analysis of a LOX/LCH4 Rocket Engine Using Cantera
+# Equilibrium Performance Analysis of a LOX/LCH4 Rocket Engine Using Cantera
 
 Project for the course **Computer Methods in Combustion**.
 
@@ -26,26 +26,7 @@ The baseline propellant combination is:
 - baseline chamber pressure: 20 bar,
 - baseline nozzle area ratio: 15.
 
-## Repository Structure
 
-```text
-.
-├── README.md
-├── requirements.txt
-├── MKWS_2026_Michna_R_raport.pdf
-├── scripts/
-│   └── run_analysis.py
-├── src/
-│   └── rocket_combustion/
-│       ├── __init__.py
-│       └── model.py
-├── tests/
-│   └── test_model.py
-└── results/
-    ├── of_sweep.csv
-    ├── pressure_sweep.csv
-    └── figures/
-```
 
 ## Installation
 
